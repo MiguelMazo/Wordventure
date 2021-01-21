@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3699796204984984864
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3699796204984984866}
+  - component: {fileID: 3699796204984984867}
+  m_Layer: 0
+  m_Name: WordLogic
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3699796204984984866
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3699796204984984864}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.026855767, y: 0.7553456, z: 9.73}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3699796204984984867
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3699796204984984864}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe2dc4ad73a21ae4ca56333a1012888f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  aPrefab: {fileID: 6834846548915904179, guid: dbca4c990b2436149b28d0d619b9920e, type: 3}
+  bPrefab: {fileID: 8628485690143131125, guid: 7e88f66ed88dc9f418848876a5333396, type: 3}
+  cPrefab: {fileID: 6160510848653262888, guid: 5d8d5d9eee0e81b4b832df8284fa4e07, type: 3}
+  dPrefab: {fileID: 126524281448747870, guid: 5ed7df62ec189df46b25a9c13e87ef2e, type: 3}
+  ePrefab: {fileID: 3906951986569883269, guid: 8fee7de7952ec86488acfc970c1f9955, type: 3}
+  fPrefab: {fileID: 6111638027412170008, guid: 74a1bd807b01fad44a48f66540b0a9ea, type: 3}
+  gPrefab: {fileID: 4870375889407737130, guid: dfd260d775c09f84fa3ab8d68cb4ae0f, type: 3}
+  hPrefab: {fileID: 1114849490385084579, guid: 54cb85d10d43351439a364b422bdc221, type: 3}
+  iPrefab: {fileID: 8431695714557481460, guid: a37d19925433804488da91598ab92ed9, type: 3}
+  jPrefab: {fileID: 6372020435523042508, guid: 02c8b8eaf38ff8a479e4897cc3f532e9, type: 3}
+  kPrefab: {fileID: 5745763201319379409, guid: 5835f426f62cce64eaf84b51d48ae833, type: 3}
+  lPrefab: {fileID: 3720708680816518451, guid: f4bcd4ac502e5df418c5474f0a8d0839, type: 3}
+  mPrefab: {fileID: 7013830731625949919, guid: 0db0647077ce931489f22e61cb7c8d89, type: 3}
+  nPrefab: {fileID: 566665759518199404, guid: 4edcb209719d19344a87111918af65db, type: 3}
+  oPrefab: {fileID: 8748884673195546816, guid: 1b3a35385d8d8bb4484c0fd24e607a87, type: 3}
+  pPrefab: {fileID: 3326252712253600535, guid: bffa588029eb963409eef9d48f99af29, type: 3}
+  qPrefab: {fileID: 3071723267022289525, guid: 2d2775fb3bf2d464a9eb82b7e13d6aca, type: 3}
+  rPrefab: {fileID: 9125336140405982110, guid: 02c02d5daea47674baf874a0c1abf2fa, type: 3}
+  sPrefab: {fileID: 1657428800694653437, guid: 583d3deaaa2582b449baef897f1b076d, type: 3}
+  tPrefab: {fileID: 6560863291830973559, guid: 72574faa0780b3e459d0945ca0c5e359, type: 3}
+  uPrefab: {fileID: 269559291548798244, guid: 08c49d839b22f0f42aaa79043c6d55de, type: 3}
+  vPrefab: {fileID: 5304803641373886345, guid: 6bdd46581c20ad645b61ac39e3e21748, type: 3}
+  wPrefab: {fileID: 6932070281535683430, guid: a4daa72f8bf2ef04c90ea5569d4c2f84, type: 3}
+  xPrefab: {fileID: 8279218930620444190, guid: caace90541e3f1145a816c70e9412d60, type: 3}
+  yPrefab: {fileID: 1570298946020410785, guid: d44a6f40a71c99a4da1e28d2ebbd882d, type: 3}
+  zPrefab: {fileID: 6772266589710842989, guid: b8315d75e78d7b84d84daed4abe0b699, type: 3}
+  spawn1: {fileID: 0}
+  spawn2: {fileID: 0}
+  spawn3: {fileID: 0}
+  spawn4: {fileID: 0}
+  spawn5: {fileID: 0}
+  spawn6: {fileID: 0}
+  spawn7: {fileID: 0}
+  spawn8: {fileID: 0}
+  spawns: []
